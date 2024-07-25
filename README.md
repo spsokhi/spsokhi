@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**spsokhi/spsokhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer with a knack for developing innovative solutions. Here are some things about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Custom Discord bots, Full-Stack projects,web development projects and MySQL database integrations.
+- 🌱 I’m currently learning: Advanced Python techniques, machine learning, and programming in Python, Java, and C++.
+- 👯 I’m looking to collaborate on: Open-source projects and startups that aim to make a difference.
+- 🤔 I’m looking for help with: Scaling applications and optimizing performance.
+- 💬 Ask me about: Python, web development, MySQL , Java, C++.
+- 📫 How to reach me: gs.spsokhi@gmail.com 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love tinkering with hardware.
+Feel free to explore my repositories and get in touch!
