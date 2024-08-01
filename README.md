@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on: Open-source projects and startups that aim to make a difference.
 - 🤔 I’m looking for help with: Scaling applications and optimizing performance.
 - 💬 Ask me about: Python, web development, MySQL , Java, C++.
-- 📫 How to reach me: gs.spsokhi@gmail.com  
+- 📫 How to reach me: [Github](https://github.com/spsokhi)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love tinkering with hardware.
 Feel free to explore my repositories and get in touch!
