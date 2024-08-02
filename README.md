@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ## 👋 Hello, World! 👋
-<br><br>Welcome to my GitHub profile! 🚀 I'm Sukhpreet, a passionate Developer who loves to watch anime, movies and code while siping on a cup of black coffee. I'm on a journey to create, learn, and explore the world of code. <br><br>🌱 Currently Growing: My skills to learn different aspects of the industry and the standards that need to be met.<br>🎯 Future Goals: hunting for a job so that I can start working on real-world-based deployment and development, wanna learn a lot of technologies out there, and trying to build a Gpt model that could replace my friend.<br><br>Let's connect and collaborate on exciting projects! 🤝 Feel free to explore my repositories and reach out to me on Discord:lelouch248 for a chat.<br><br>Keep coding and keep smiling! 😄👩‍💻<br>
+<br><br>Welcome to my GitHub profile! 🚀 I'm Sukhpreet, a passionate Developer who loves to watch anime, movies and code while siping on a cup of black coffee. I'm on a journey to create, learn, and explore the world of code. <br><br>🌱 Currently Growing: My skills to learn different aspects of the industry and the standards that need to be met.<br>🎯 Future Goals: hunting for a job so that I can start working on real-world-based deployment and development, wanna learn a lot of technologies out there, and trying to build a Gpt model that could replace my friend.<br><br>Let's connect and collaborate on exciting projects! 🤝 Feel free to explore my repositories and reach out to me on Discord:spsokhi for a chat.<br><br>Keep coding and keep smiling! 😄👩‍💻<br>
 
 
 Feel free to explore my repositories and get in touch!
