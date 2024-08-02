@@ -10,3 +10,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love tinkering with hardware.
 Feel free to explore my repositories and get in touch!
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=spsokhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=spsokhi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=spsokhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
