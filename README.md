@@ -94,22 +94,8 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spsokhi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=spsokhi&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spsokhi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spsokhi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=spsokhi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
