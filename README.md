@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://discord.com/users/spsokhi"><img src="https://img.shields.io/badge/Discord-spsokhi-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://github.com/spsokhi"><img src="https://img.shields.io/badge/GitHub-spsokhi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://spsokhi.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-00D9F5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=spsokhi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
@@ -93,7 +94,27 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Live |
+| :------ | :---------- | :--- | :--: |
+| **[Cortex](https://github.com/spsokhi/Cortex)** | Privacy-first local AI assistant — 100% offline, zero cloud | TypeScript · Tauri · Ollama | — |
+| **[AirOPS](https://github.com/spsokhi/AirOPS)** | Tactical dashboard tracking real-world aircraft in Indian airspace ✈️ | JavaScript · HTML | — |
+| **[DualSenseBridge](https://github.com/spsokhi/DualSenseBridge)** | Native C++20 alternative to DS4Windows for the PS5 DualSense controller | C++ · Win32 | — |
+| **[Zenith Canvas](https://github.com/spsokhi/Zenith-canvas)** | Hand-drawn-style whiteboard & notes — no install, no account, no server | JavaScript · Canvas · Vite | [Demo](https://spsokhi.github.io/Zenith-canvas/) |
+| **[AlgoTracker](https://github.com/spsokhi/AlgoTracker)** | Algorithmic-complexity visualizer: call-stack tracing + empirical Big-O charts | React · Vite · Web Workers | — |
+| **[Mini-Game Hub](https://github.com/spsokhi/mini-games)** | A collection of classic web-based games with achievements & PWA support | HTML · CSS · JavaScript | [Demo](https://spsokhi.github.io/mini-games/) |
+
+<p align="center"><i>…and more on my <a href="https://github.com/spsokhi?tab=repositories">repositories page</a> 📂</i></p>
+
+---
+
 ## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spsokhi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spsokhi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=spsokhi&theme=tokyonight&hide_border=true" />
 </p>
