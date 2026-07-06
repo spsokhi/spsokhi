@@ -98,6 +98,23 @@
   <img height="180em" src="https://streak-stats.demolab.com?user=spsokhi&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🟩 Contribution Activity
+<p align="center">
+  <img src="https://ghchart.rshah.org/00D9F5/spsokhi" alt="Contribution graph" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spsokhi&theme=tokyo-night&hide_border=true" alt="Activity graph" width="90%"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spsokhi/spsokhi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spsokhi/spsokhi/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/spsokhi/spsokhi/output/github-snake.svg" width="90%" />
+  </picture>
+</p>
+
 ---
 
 ## ✍️ Dev Quote of the Day
